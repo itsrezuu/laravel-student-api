@@ -8,8 +8,7 @@ Simple REST API untuk mengelola data student menggunakan Laravel.
 * Update Student
 * Delete Student
 
-## 🛠️ Tech Stack
-* PHP
+## Tech Stack
 * Laravel
 * MySQL
 * Postman (testing)
