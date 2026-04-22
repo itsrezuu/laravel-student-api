@@ -1,5 +1,5 @@
 # Laravel Student API
-Simple REST API untuk mengelola data student menggunakan Laravel.
+Simple REST API untuk mengelola data student menggunakan Laravel
 
 ## Features
 * Create Student
