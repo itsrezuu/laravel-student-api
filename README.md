@@ -8,6 +8,9 @@ Simple REST API untuk mengelola data student menggunakan Laravel
 * Update Student
 * Delete Student
 
+## Enpoint
+Dokumentasi APi: https://documenter.getpostman.com/view/53993646/2sBXqDsiQg
+
 ## Tech Stack
 * Laravel
 * MySQL
